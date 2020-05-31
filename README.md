@@ -1,7 +1,5 @@
 # Website-created-for-SPZOZ-MSWiA-in-Wroclaw
 
-Website created in wordpress.
+Created using Wordpress. Currently in the content completion phase.
 
-Currently in the content completion phase.
-
-Available at http://wordpress.spzozmswia.wroclaw.pl/.
+Available for viewing at http://wordpress.spzozmswia.wroclaw.pl/.
