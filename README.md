@@ -1,5 +1,5 @@
 # Website-created-for-SPZOZ-MSWiA-in-Wroclaw
 
-Created using Wordpress. Currently in the content completion phase.
+My website project, created using Wordpress. Currently in use.
 
-Available for viewing at http://spzozmswia.wroclaw.pl/.
+Available at http://spzozmswia.wroclaw.pl/.
