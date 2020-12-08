@@ -2,4 +2,4 @@
 
 Created using Wordpress. Currently in the content completion phase.
 
-Available for viewing at http://wordpress.spzozmswia.wroclaw.pl/.
+Available for viewing at http://spzozmswia.wroclaw.pl/.
